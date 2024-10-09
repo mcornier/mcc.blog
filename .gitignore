@@ -1,12 +1,15 @@
-# Visual Studio Code
-.vscode/
+# Ignore node_modules
+node_modules/
 
-# Visual Studio
-*.suo
-*.user
-*.userprefs
-*.sln.docstates
-
-# Build directories
+# Ignore build directories
 bin/
 obj/
+
+# Ignore IDE directories
+.vscode/
+.vs/
+
+# Other ignores
+*.log
+*.env
+.DS_Store

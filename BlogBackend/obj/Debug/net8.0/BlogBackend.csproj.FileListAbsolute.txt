@@ -119,3 +119,4 @@ C:\Repositories\mcc.blog\BlogBackend\obj\Debug\net8.0\BlogBackend.pdb
 C:\Repositories\mcc.blog\BlogBackend\obj\Debug\net8.0\BlogBackend.genruntimeconfig.cache
 C:\Repositories\mcc.blog\BlogBackend\obj\Debug\net8.0\ref\BlogBackend.dll
 C:\Repositories\mcc.blog\BlogBackend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Repositories\mcc.blog\BlogBackend\bin\Debug\net8.0\BCrypt.Net-Next.dll

@@ -1,0 +1,12 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build directories
+bin/
+obj/
